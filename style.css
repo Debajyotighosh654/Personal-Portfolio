@@ -388,7 +388,7 @@ section .title::after{
 
 /* projects section styling */
 .projects .title::after{
-    content: "what projects";
+    content: "you can take a look";
 }
 .projects .carousel .card{
     background: #222;
